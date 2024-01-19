@@ -1,0 +1,7 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "public/admin/js/amcharts/lang",
+        "public/front/assets/inc/PHPMailer/language"
+    ]
+}

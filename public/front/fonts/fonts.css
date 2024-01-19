@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('Montserrat/Montserrat-Bold.woff')
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('Montserrat/Montserrat-Regular.woff')
+}
+
+@font-face {
+    font-family: 'Montserrat-Italic';
+    src: url('Montserrat/Montserrat-Italic.woff')
+}
+
+
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url('Raleway/Raleway-Bold.ttf')
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('Raleway/Raleway-Regular.ttf')
+}
+
+@font-face {
+    font-family: 'Raleway-Italic';
+    src: url('Raleway/Raleway-Italic.ttf')
+}
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('Roboto/Roboto-Bold.ttf')
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('Roboto/Roboto-Regular.ttf')
+}
+
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('Roboto/Roboto-Italic.ttf')
+}

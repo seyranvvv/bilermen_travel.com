@@ -1,0 +1,18 @@
+{
+  "emptyTable": "Girizme tapylmady",
+  "info": "_START_ - _END_ aralygy görkezilýär | Jemi _TOTAL_",
+  "infoEmpty": "0 girizme görkezilýär",
+  "infoFiltered": "(_MAX_ maglumatdan gözleg esasynda)",
+  "infoPostFix": "",
+  "lengthMenu": "Görkez _MENU_ girizme",
+  "loadingRecords": "Ýüklenýär...",
+  "processing": "Dowam edýär...",
+  "search": "Gözleg:",
+  "zeroRecords": "Gözlegiňize göra girizme tapylmady :(",
+  "paginate": {
+    "first": "Ilkinji",
+    "previous": "Öňki",
+    "next": "Indiki",
+    "last": "Soňky"
+  }
+}
